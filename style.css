@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{background-color: rgb(2, 167, 232);
+    display: flex;
+    font-size: 24px;
+}
+
